@@ -1,2 +1,2 @@
 # ResumeOne
-recreating my resume
+recreating my Resume
